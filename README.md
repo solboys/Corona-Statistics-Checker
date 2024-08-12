@@ -1,4 +1,3 @@
-# Code Written By Tahir
 # Corona-Statistics-Checker
 
 Run Index PHP file
